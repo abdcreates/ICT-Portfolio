@@ -1,0 +1,6 @@
+I am a first-semester Bachelor of Software Engineering student at Mohammad Ali Jinnah University (MAJU),
+Karachi, with a genuine passion for building scalable and impactful software solutions. My interests
+span across Web Development, Problem Solving, and Open Source contribution areas I actively explore as
+I develop my engineering foundations.
+I use this repository to upload and manage my ICT assignments.
+I aim to keep learning and growing as a future software developer.
