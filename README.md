@@ -9,7 +9,9 @@
 </div>
 
 ---
-#My ICT-Portfolio 
+<div font-Bold
+My ICT-Portfolio
+</div>
 
 <div align="center">
 
