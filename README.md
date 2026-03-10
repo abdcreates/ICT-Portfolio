@@ -9,11 +9,9 @@
 </div>
 
 ---
-
-## ReadMe
+##My ICT-Portfolio 
 
 <div align="center">
-#My ICT-Portfolio 
 
 | Field            | Details                                                        |
 |------------------|----------------------------------------------------------------|
