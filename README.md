@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active">
 </div>
 
----
-## My ICT-Portfolio
-
 <div align="center">
 
 | Field            | Details                                                        |
@@ -21,15 +18,3 @@
 </div>
 
 ---
-
-## 📖 about_me.txt
-
-<div align="justify">
-
-I am a first-semester Bachelor of Software Engineering student at Mohammad Ali Jinnah University (MAJU), Karachi, with a genuine passion for building scalable and impactful software solutions. My interests span across Web Development, Problem Solving, and Open Source contribution — areas I actively explore as I develop my engineering foundations.
-
-
-</div>
-
-
-
