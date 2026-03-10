@@ -6,5 +6,3 @@
 | **Program**      | BSSE — Bachelor of Software Engineering                        |
 | **Semester**     | 1                                                              
 </div>
-
----
